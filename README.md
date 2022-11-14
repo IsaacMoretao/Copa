@@ -23,10 +23,10 @@ This is an application made by me, with Rocktseat code, with the objective of im
 
 <img src="./web/src/assets/Image-web.png" align="center" />
 
-<div>
-  <img src="./web/src/assets/image-mobile.png" width='30%' align="right"  />
-  <img src="./web/src/assets/image-mobile(1).png" width='30%' align="center" />
-  <img src="./web/src/assets/image-mobile(2).png" width='30%' align="left" />
+<div align="center">
+  <img src="./web/src/assets/image-mobile.png" width='30%' align="left"/>
+  <img src="./web/src/assets/image-mobile(1).png" width='30%' align="center"/>
+  <img src="./web/src/assets/image-mobile(2).png" width='30%' align="right"/>
 </div>
 <br/> <br/> <br/>
 
