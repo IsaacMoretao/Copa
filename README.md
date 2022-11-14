@@ -28,6 +28,7 @@ This is an application made by me, with Rocktseat code, with the objective of im
   <img src="./web/src/assets/image-mobile(1).png" width='30%' align="center" />
   <img src="./web/src/assets/image-mobile(2).png" width='30%' align="left" />
 </div>
+<br/> <br/> <br/>
 
 ## 🔖 Layout
 
